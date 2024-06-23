@@ -149,7 +149,7 @@ html {
   align-items: center;
   justify-content: center;
   height: 100%;
-  background-image: url(Img/Background.png);
+  background-image: url(/Img/Background.png);
   background-position: top left;
   background-size: cover;
   background-repeat: no-repeat;
